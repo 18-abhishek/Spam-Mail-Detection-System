@@ -19,7 +19,7 @@ spam-detection-system/
 ├── gui.py              # Main entry point for the Graphical User Interface
 ├── project.py          # Core logic (Model, EmailScanner) and CLI entry point
 ├── README.md           # Project documentation
-└── requirements.txt    # List of dependencies (if created)
+└── requirements.txt    # List of dependencies 
 ```
 
 ## 🛠️ Installation & Setup
